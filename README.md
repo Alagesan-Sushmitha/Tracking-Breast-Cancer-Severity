@@ -22,6 +22,7 @@ Once models have been built, this phase ensures they meet the business objective
 #### Deployment: 
 The final phase is about deploying the model into a real-world environment. Depending on the business needs, this could be making the model available for business analysts, integrating the model into business processes, or developing interactive visualizations and reports.
 
-![image](https://github.com/Alagesan-Sushmitha/Tracking-Breast-Cancer-Severity/assets/137837229/1463e927-d0ef-4555-b5b1-ed162c45c218)
+![image](https://github.com/Alagesan-Sushmitha/Tracking-Breast-Cancer-Severity/assets/137837229/fe593b1c-7cde-4fcf-98cd-5513cc54a93a)
+
 
 
